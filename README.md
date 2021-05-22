@@ -1,5 +1,6 @@
 # Logger
 Module wrapper for console.log
+
 log level, time, file and function source, message
 
 ```
